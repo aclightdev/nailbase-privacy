@@ -79,7 +79,7 @@ We may update this Privacy Policy from time to time. Changes will be reflected b
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [news@nailbase.app]
+**Email:** [nailbasedev@gmail.com]
 
 ---
 
