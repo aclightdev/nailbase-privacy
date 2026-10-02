@@ -75,7 +75,15 @@ NailBase is a business tool intended for use by nail-service professionals and i
 
 We may update this Privacy Policy from time to time. Changes will be reflected by updating the "Last updated" date above. Continued use of the App after changes constitutes acceptance of the revised policy.
 
-## 12. Contact Us
+## 12. Security and Limitation of Liability
+
+NailBase stores your data on your own device and, only if you enable it, in your own Google Drive account or in backup files you create. We apply reasonable measures to protect it (private app storage, optional App Lock), but no device, software or network is completely secure.
+
+To the maximum extent permitted by applicable law, the developer of NailBase is not responsible for loss, corruption, unauthorized access, theft or disclosure of your data resulting from: loss, damage, theft, factory reset or failure of your device; unauthorized access to your device, your PIN or your Google account, including hacking, malware or interference by third parties; actions or failures of third-party services such as Google, Android or Google Drive; backup files that you create, share or fail to create; or your own deletion of data or uninstalling the App. Keeping regular backups is your responsibility.
+
+The App is provided "as is" and "as available", without warranties of any kind. Nothing in this section limits any rights you have under mandatory consumer-protection or data-protection law that cannot be waived.
+
+## 13. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
