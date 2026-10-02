@@ -1,6 +1,6 @@
 # Privacy Policy for NailBase
 
-**Last updated:** July 12, 2026
+**Last updated:** October 2, 2026
 
 This Privacy Policy describes how NailBase ("the App", "we", "our") handles information when you use our mobile application.
 
